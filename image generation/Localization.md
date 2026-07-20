@@ -4,7 +4,7 @@
 
 Here's a universal add-on you can append to any "translate this image into [language]" instruction:
 
----
+```
 
 Do not translate literally — **localize**. Your goal is that a native [target language] reader/viewer feels the exact same emotion, social tension, humor, or subtext that a native [source language] reader/viewer would feel — even if that means the words, idioms, or specific references change completely.
 
@@ -17,7 +17,7 @@ Do not translate literally — **localize**. Your goal is that a native [target 
  
 > Everything else in the image — art, characters, layout, panel composition — must remain **completely unchanged**. Only replace the embedded text.
 
----
+```
 
 **How to use it:**
 Just paste it right after your instruction, e.g.:
