@@ -1,6 +1,5 @@
 ## **Cultural Localization Add-on:** 
 
----
 
 Here's a universal add-on you can append to any "translate this image into [language]" instruction:
 
@@ -18,10 +17,10 @@ Do not translate literally — **localize**. Your goal is that a native [target 
 > Everything else in the image — art, characters, layout, panel composition — must remain **completely unchanged**. Only replace the embedded text.
 
 ```
+---
 
-**How to use it:**
+### **How to use it:**
 Just paste it right after your instruction, e.g.:
 
-"Translate this image into English. [paste add-on above]"
+> "Translate this image into English. [paste add-on above]"
 
-Want me to also make a shorter "quick" version (for when you don't need the full reasoning steps spelled out) or a version tuned specifically for meme/manga formats vs. signs/menus/ads?
