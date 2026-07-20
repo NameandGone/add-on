@@ -24,3 +24,21 @@ Just paste it right after your instruction, e.g.:
 
 > "Translate this image into English. [paste add-on above]"
 
+
+## *Results**
+
+>NOTE: ALL CREDITS FOR THE MANGA IMAGE GOES TO [yuriyu]([https://x.com/yuriyumanga)
+
+### Original image:
+
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/6cab6011-a01f-44ee-abdf-4fb1599a5776" />
+
+### With simple "translate to english" prompt:
+
+<img width="543" height="724" alt="ChatGPT Image Jul 20, 2026, 05_55_19 PM" src="https://github.com/user-attachments/assets/2fa0a8a5-97cc-4e31-acc9-5a8f41fb1455" />
+
+### With OUR add-on prompt: 
+
+<img width="543" height="724" alt="ChatGPT Image Jul 20, 2026, 05_55_46 PM" src="https://github.com/user-attachments/assets/255d2a83-ed0d-48b6-94bc-06f616bb013f" />
+
+
